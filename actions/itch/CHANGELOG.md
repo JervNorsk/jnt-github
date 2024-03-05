@@ -12,4 +12,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Implemented reusable workflow for itch deployment
 
 
-[unreleased]: https://github.com/JervNorsk/jnt-github/compare/main...develop
+[unreleased]: https://github.com/JervNorsk/jnt-github/compare/develop...feature/actions/itch
